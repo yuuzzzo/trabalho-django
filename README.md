@@ -1,0 +1,4 @@
+ACESSO SUPERUSER (TRABALHO BELLONI) :
+
+Usuario: yuri
+Senha: 123456
